@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMICAL</string>
+    <string name="hint_wt">Weight (in Kg)</string>
+    <string name="hint_ht">Height (in cm)</string>
+    <string name="hint_cal">Calculate</string>
+    <string name="strOverweight">You are Overweight</string>
+    <string name="strUnderweight">You are Underweight</string>
+    <string name="strHealthy">You are Healthy</string>
+</resources>
